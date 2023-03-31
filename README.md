@@ -5,7 +5,8 @@
 1. Sindhya Babu (29928), 
 2. Kiara Meço (32358), 
 3. Sahil Chande (29927) 
-*Under supervision of : Prof. Rolf Becker *
+
+* Under supervision of : Prof. Rolf Becker *
 
 **Contents of git repository**
 
