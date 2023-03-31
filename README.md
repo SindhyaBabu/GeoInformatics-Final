@@ -1,7 +1,13 @@
 # GeoInformatics-Final
-Created for Final Project: geo Informatics WiSe 2022
+======= Geo Informatics Final Project : Group B =======
+==== M-IE_2.02 Geoinformatics, WS2022/23 ====
+===== Participants:=====
+1. Sindhya Babu (29928), 
+2. Kiara Meço (32358), 
+3. Sahil Chande (29927) 
+*Under supervision of : Prof. Rolf Becker *
 
-contents of git repository
+**Contents of git repository**
 
 1 -  Pegel Stations master data scraping
 
@@ -15,3 +21,9 @@ Documentation of the above webscraping exercise is posted on EOLab Wiki page of 
 link for the page: 
 
 https://student-wiki.eolab.de/doku.php?id=geoinfo2223:groupb:start
+
+
+
+
+
+
